@@ -1,6 +1,7 @@
 # AIML-PROJECT-25BAS10086
 
 **⭕OverView Of The Project 📄:-**
+
 This project explores pathfinding algorithms (BFS, UCS, A*) in a grid. It models a world with static and moving obstacles, allowing an agent to plan and replan its path to a goal. It also includes tools to test and compare how efficiently these algorithms work on different maps.
 
 **⭕Features ⚙️:-**
